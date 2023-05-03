@@ -1,5 +1,5 @@
 title: Governance Handbook - Open Data Services Co-operative
 description: A draft documentation site for ODS Co-op governance (aspirational)
-theme: just-the-docs
+remote_theme: "pmarsceill/just-the-docs"
 
 url: https://rhiaro.github.io/ods-governance-handbook
