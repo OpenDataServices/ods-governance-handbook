@@ -2,7 +2,7 @@
 title: Board Decisions
 layout: home
 nav_order: 1
-parent: Secondary Rules
+parent: Governance Policy
 ---
 
 # Board Decisions

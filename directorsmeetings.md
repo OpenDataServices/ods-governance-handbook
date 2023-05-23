@@ -2,7 +2,7 @@
 title: Directors Meetings
 layout: home
 nav_order: 2
-parent: Secondary Rules
+parent: Governance Policy
 ---
 
 # Directors Meetings

@@ -2,7 +2,7 @@
 title: Delegation
 layout: home
 nav_order: 3
-parent: Secondary Rules
+parent: Governance Policy
 ---
 
 # Delegation
