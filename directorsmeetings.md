@@ -7,13 +7,13 @@ parent: Governance Policy
 
 # Directors Meetings
 
-Directors meetings are any quorate meetings at which [board-level decisions](boarddecisions) can be made.
+Directors meetings are any quorate meetings at which [board-level decisions](boarddecisions) can be made. They may also be known as Members meetings.
 
 Non-members are not expected to attend, but are welcome as observers.
 
-## Members Meetings
+## Coordination Meetings
 
-We hold short (up to 2 hours) members meetings approximately every two weeks. We use this time to monitor delegated activities, and to prepare for upcoming [board decisions](boarddecisions).
+We hold short (up to 2 hours) coordination meetings approximately every two weeks. We use this time to monitor delegated activities, and to prepare for upcoming [board decisions](boarddecisions).
 
 The agenda should provide an opportunity to:
 
@@ -33,12 +33,12 @@ The agenda may also provide space for:
 
 ## Ordinary General Meetings
 
-We hold Ordinary General Meetings (OGMs) quarterly. These are longer meetings (up to half a day), and we use this time to reflect on the previous quarter.
+We hold Ordinary General Meetings (OGMs) quarterly. These are shorter meetings (half to one hour), and we use this time to make formal resolutions, and to celebrate progress of the previous quarter.
 
 The agenda should provide an opportunity to:
 
-* Hear quarterly reports from all work areas, including subgroups and delivery work, against their plans/targets/goals.
-* Hear reporting against the financial forecast.
+* Make sure we all have clarity on the progress of work in all areas, against the various groups' plans/targets/goals.
+* Hear exceptional reporting against the financial forecast, if needed.
 * Formally approve new [terms of reference](delegation#terms-of-reference) or changes to an existing terms of reference.
 * Formally approve changes to any business strategy.
 * Formally approve changes to existing [policies](policies).
@@ -49,7 +49,7 @@ Our Annual General Meeting (AGM) occurs once a year, towards the end of the cale
 
 The agenda should provide an opportunity to:
 
-* Review the progress of the business.
+* Review and reflect on the progress of the business.
 * Review our compliance and risk mitigations.
 * Hear year ahead plans from all work areas, including subgroups and delivery work.
 * Formally approve new [policies](policies).
