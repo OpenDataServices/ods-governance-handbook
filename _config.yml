@@ -1,6 +1,15 @@
+---
 title: Governance Handbook - ODSC
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 description: A draft documentation site for ODS Co-op governance (aspirational)
 url: https://opendataservices.github.io/ods-governance-handbook/
 plugins:
-  - jekyll-remote-theme
-remote_theme: "pmarsceill/just-the-docs"
+- jekyll-remote-theme
+remote_theme: pmarsceill/just-the-docs
