@@ -20,6 +20,16 @@ sudo docker run --rm \
   jekyll serve
 ```
 
+Or in zsh on MacOS:
+
+```
+docker run --rm \
+  --volume="$(PWD):/srv/jekyll:Z" \
+  --publish 4000:4000 \
+  jekyll/jekyll \
+  jekyll serve
+```
+
 Then visit `localhost:4000`.
 
 This automatically reloads when changes are made.
